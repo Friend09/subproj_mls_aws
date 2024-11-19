@@ -1,12 +1,10 @@
 python-dotenv
-pytest
+ipykernel
+ipytest
 pylint
 
-mlflow
-mlflow[extras]
-mlserver
-mlserver-mlflow
-
+boto3
+sagemaker
 awscurl
 packaging
 setuptools
@@ -15,10 +13,3 @@ keras
 scikit-learn
 pandas
 numpy
-jax[cpu]
-
-metaflow
-metaflow-card-html
-
-azure-ai-ml
-azureml-mlflow
