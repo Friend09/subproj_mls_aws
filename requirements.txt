@@ -13,3 +13,4 @@ keras
 scikit-learn
 pandas
 numpy
+matplotlib
